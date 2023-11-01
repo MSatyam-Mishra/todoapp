@@ -64,6 +64,9 @@ class CustomTextField extends StatelessWidget {
           color: Colors.white,
           fontSize: 20,
         ),
+        onChanged: (value) {
+          print("Entered Text: $value");
+        },
         decoration: InputDecoration(
           border: InputBorder.none,
           labelText: label,
