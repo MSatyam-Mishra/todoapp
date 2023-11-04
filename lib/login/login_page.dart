@@ -77,4 +77,6 @@ class LogInPage extends StatelessWidget {
 // Function to validate the form
 // Function to login the user
 // Widget for the login page
+// Widget for the sign up page
+
 
