@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:todoapp/constants/geometry.dart';
-import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
 
 import '../constants/colors.dart';
 
