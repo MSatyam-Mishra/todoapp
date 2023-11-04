@@ -79,4 +79,6 @@ class LogInPage extends StatelessWidget {
 // Widget for the login page
 // Widget for the sign up page
 
+// import 'package:flutter/material.dart';
+
 
