@@ -70,3 +70,4 @@ class LogInPage extends StatelessWidget {
 
 //this commit include this
 // Initializing variables
+// Widget for the user profile
