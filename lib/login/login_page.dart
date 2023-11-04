@@ -68,6 +68,13 @@ class LogInPage extends StatelessWidget {
   }
 }
 
+
 //this commit include this
 // Initializing variables
 // Widget for the user profile
+// Function to validate email input
+// Function to validate password input
+// Function to validate the form
+// Function to login the user
+// Widget for the login page
+
